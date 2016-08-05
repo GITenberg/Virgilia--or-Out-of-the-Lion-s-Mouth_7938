@@ -1,0 +1,26 @@
+_repo: Virgilia--or-Out-of-the-Lion-s-Mouth_7938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, Felicia Buttz
+    birthdate: 1862
+    gutenberg_agent_id: '2582'
+    url: http://www.gutenberg.org/2009/agents/2582
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Gladiators -- Fiction'
+- !lcsh 'Circus -- Rome -- Fiction'
+- !lcsh 'Romans -- Italy -- Rome -- Fiction'
+- GITenberg
+title: Virgilia; or, Out of the Lion's Mouth
+url: http://www.gutenberg.org/ebooks/7938
